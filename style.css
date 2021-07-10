@@ -1,0 +1,39 @@
+.SCHOOL123 {
+    width: 1500PX;
+    text-align: center;
+    border-radius: 30PX;
+    border-width: 5px;
+    border-width: 5px;
+    padding-right: -20;
+
+}
+
+#SCHOOL_DETAILS {
+    text-align: center;
+}
+
+#Subjects {
+    text-align: center;
+
+
+
+}
+lkg{
+    width:200px;
+    
+}
+#no{
+    text-align:center;
+}
+#ho{
+    font-family: fantasy;
+    font-size:18px;
+}
+
+#fo{
+    width:600px;
+}
+#contact{
+    width:600px;
+    height:500px;
+}
